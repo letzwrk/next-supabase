@@ -2,28 +2,40 @@
   "products": [
     {
       "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "New Short Sleeve T-Shirt",
+      "name": "Pressure Washing",
       "vendor": "Next.js",
       "path": "/new-short-sleeve-t-shirt",
-      "slug": "new-short-sleeve-t-shirt",
+      "slug": "pressure-wash",
       "price": { "value": 25, "currencyCode": "USD" },
-      "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
+      "descriptionHtml": "<p><span>Pressure washing is a quick way to raise the curb appeal. Let me know any details and send pictures if you can.</strong></p>",
       "images": [
         {
-          "url": "/assets/drop-shirt-0.png",
-          "altText": "Shirt",
+          "url": "/assets/powerwashdriveway2.jpg",
+          "altText": "Powerwash & Pressure Wash Business in Austin, Texas",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/drop-shirt-1.png",
-          "altText": "Shirt",
+          "url": "/assets/powerwash_brickwall.jpg",
+          "altText": "Powerwash & Pressure Wash Business in Austin, Texas",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/drop-shirt-2.png",
-          "altText": "Shirt",
+          "url": "/assets/powerwashdriveway2.jpg",
+          "altText": "Powerwash & Pressure Wash Business in Austin, Texas",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/powerwash_concrete.jpg",
+          "altText": "Powerwash & Pressure Wash Business in Austin, Texas",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/powerwash_fence.jpg",
+          "altText": "Powerwash & Pressure Wash Business in Austin, Texas",
           "width": 1000,
           "height": 1000
         }
