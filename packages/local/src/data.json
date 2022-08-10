@@ -58,16 +58,28 @@
         },
         {
           "id": "option-size",
-          "displayName": "Size",
+          "displayName": "Services",
           "values": [
             {
-              "label": "S"
+              "label": "House"
             },
             {
-              "label": "M"
+              "label": "Driveway"
             },
             {
-              "label": "L"
+              "label": "pool"
+            },
+            {
+              "label": "fence"
+            },
+            {
+              "label": "boat"
+            },
+            {
+              "label": "dumpsters"
+            },
+            {
+              "label": ""
             }
           ]
         }
