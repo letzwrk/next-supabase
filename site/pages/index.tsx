@@ -60,7 +60,7 @@ export default function Home({
       </Marquee>
       <Hero
         headline=" Serving Travis & West Bastrop Counties."
-        description="Send me details and pictures of the jobs needing done. Pay the estimated costs and we will lock it in to the calendar! Consider the job done and leave a review !  "
+        description="Send me details and pictures of the jobs needing done. Pay the estimated costs and we will lock it in to the calendar! Consider the job done and leave a review ! "
       />
       <Grid layout="B" variant="filled">
         {products.slice(0, 3).map((product: any, i: number) => (
