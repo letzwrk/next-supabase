@@ -1,7 +1,7 @@
 {
   "name": "commerce",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "workspaces": [
     "site",
     "packages/*"
