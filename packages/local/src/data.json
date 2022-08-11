@@ -5,7 +5,7 @@
       "name": "Pressure Washing",
       "vendor": "Next.js",
       "path": "/pressure-washing",
-      "slug": "pressure-wash",
+      "slug": "new-short-sleeve-t-shirt",
       "price": { "value": 400, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>Pressure washing is a quick way to raise the curb appeal. Send me the details and address along with any pictures if you can.</strong></p>",
       "images": [
@@ -93,7 +93,7 @@
       "name": "Minor Electrical",
       "vendor": "Next.js",
       "path": "/electrical",
-      "slug": "electrical",
+      "slug": "lightweight-jacket",
       "price": { "value": 150, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>I replace most electrical products but legally wont alter wiring approved by the home inspector, that is my limit. </strong></p>",
       "images": [
@@ -178,7 +178,7 @@
       "name": "Minor Plumbing",
       "vendor": "Next.js",
       "path": "/plumbing",
-      "slug": "plumbing",
+      "slug": "shirt",
       "price": { "value": 200, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>I replace most plumbing fixtures and parts. I just turn of the valves but wont alter any piping approved by the home inspector.</strong></p>",
       "images": [
