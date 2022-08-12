@@ -53,12 +53,12 @@
       ],
       "options": [
         {
-          "id": "option-color",
-          "displayName": "Color",
+          "id": "phone-number",
+          "displayName": "phone number",
           "values": [
             {
-              "label": "color",
-              "hexColors": ["#222"]
+              "label": "Phone Color",
+              "phoneNumber": "1 (512) 809-0129"
             }
           ]
         },
@@ -141,12 +141,12 @@
       ],
       "options": [
         {
-          "id": "option-color",
-          "displayName": "Color",
+          "id": "phone-number",
+          "displayName": "phone number",
           "values": [
             {
-              "label": "color",
-              "hexColors": ["#222"]
+              "label": "Phone Color",
+              "phoneNumber": "1 (512) 809-0129"
             }
           ]
         },
@@ -248,11 +248,15 @@
           "displayName": "Color",
           "values": [
             {
-              "label": "color",
-              "hexColors": ["#222"]
-            }
-          ]
-        },
+              "id": "phone-number",
+              "displayName": "phone number",
+              "values": [
+                {
+                  "label": "Phone Color",
+                  "phoneNumber": "1 (512) 809-0129"
+                }
+              ]
+          },
         {
           "id": "option-size",
           "displayName": "Services",
