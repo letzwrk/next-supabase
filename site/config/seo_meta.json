@@ -1,6 +1,6 @@
 {
   "title": "Local Handyman",
-  "titleTemplate": "%s - ACME Storefront",
+  "titleTemplate": "%s ",
   "description": "Next.js Commerce - https://www.nextjs.org/commerce",
   "openGraph": {
     "title": "Local Handyman",
