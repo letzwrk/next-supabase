@@ -58,7 +58,7 @@
           "values": [
             {
               "label": "Phone Color",
-              "phoneNumber": "1 (512) 809-0129"
+              "phoneNumber": ["1 (512) 809-0129"]
             }
           ]
         },
@@ -146,7 +146,7 @@
           "values": [
             {
               "label": "Phone Color",
-              "phoneNumber": "1 (512) 809-0129"
+              "phoneNumber": ["1 (512) 809-0129"]
             }
           ]
         },
@@ -244,19 +244,15 @@
       ],
       "options": [
         {
-          "id": "option-color",
-          "displayName": "Color",
+          "id": "phone-number",
+          "displayName": "phone number",
           "values": [
             {
-              "id": "phone-number",
-              "displayName": "phone number",
-              "values": [
-                {
-                  "label": "Phone Color",
-                  "phoneNumber": "1 (512) 809-0129"
-                }
-              ]
-          },
+              "label": "Phone Color",
+              "phoneNumber": ["1 (512) 809-0129"]
+            }
+          ]
+        },
         {
           "id": "option-size",
           "displayName": "Services",
