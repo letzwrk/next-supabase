@@ -1,3 +1,3 @@
-[![Deploy](https://letzwrk.com)](https://letzwrk.com)
+[Deploy](https://www.letzwrk.com)
 
 # LetzWrk.com
