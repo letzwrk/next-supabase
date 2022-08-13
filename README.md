@@ -1,5 +1,3 @@
-# [![LetzWrk.com](https://vercel.com/button)](https://www.letzwrk.com)
-
 # [LetzWrk.com](https://www.letzwrk.com)
 
 Labor app, E-commerce and How To DIY Blogs & Forums
@@ -19,3 +17,5 @@ Payments will be made in the app directly between clients ( both in person & vir
 All pay and jobs will be negotiated and accepted by whoever is doing the hiring and the person hired to do the task.
 
 Products will be sold and displayed , if needed timing the arrival of product/s with the installations or repairs.
+
+## [![LetzWrk.com](https://vercel.com/button)](https://www.letzwrk.com)
