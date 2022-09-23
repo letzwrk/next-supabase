@@ -41,7 +41,7 @@ export default function Home({
   return (
     <>
       <Grid variant="filled">
-        {products.slice(0, 3).map((product: any, i: number) => (
+        {products.slice(0, 4).map((product: any, i: number) => (
           <ProductCard
             key={product.id}
             product={product}
@@ -54,7 +54,7 @@ export default function Home({
         ))}
       </Grid>
       <Marquee variant="secondary">
-        {products.slice(0, 3).map((product: any, i: number) => (
+        {products.slice(0, 4).map((product: any, i: number) => (
           <ProductCard key={product.id} product={product} variant="slim" />
         ))}
       </Marquee>
@@ -63,7 +63,7 @@ export default function Home({
         description="Send me details and pictures of the jobs needing done. Pay the estimated costs and we will lock it in to the calendar! Consider the job done and leave a review ! "
       />
       <Grid layout="B" variant="filled">
-        {products.slice(0, 3).map((product: any, i: number) => (
+        {products.slice(0, 4).map((product: any, i: number) => (
           <ProductCard
             key={product.id}
             product={product}
@@ -75,7 +75,7 @@ export default function Home({
         ))}
       </Grid>
       <Marquee>
-        {products.slice(3).map((product: any, i: number) => (
+        {products.slice(4).map((product: any, i: number) => (
           <ProductCard key={product.id} product={product} variant="slim" />
         ))}
       </Marquee>
