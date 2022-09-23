@@ -292,6 +292,12 @@
       "descriptionHtml": "<p><span>Just let me know what mount is being used and the size of your TV being mounted!</strong></p>",
       "images": [
         {
+          "url": "/assets/after.2.jpg",
+          "altText": "TV Mounting Available Now in Austin, Texas",
+          "width": 1000,
+          "height": 1000
+        },
+        {
           "url": "/assets/b4.1.jpg",
           "altText": "TV Mounting Available Now in Austin, Texas",
           "width": 1000,
@@ -305,12 +311,6 @@
         },
         {
           "url": "/assets/b4.2.jpg",
-          "altText": "TV Mounting Available Now in Austin, Texas",
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "url": "/assets/after.2.jpg",
           "altText": "TV Mounting Available Now in Austin, Texas",
           "width": 1000,
           "height": 1000
