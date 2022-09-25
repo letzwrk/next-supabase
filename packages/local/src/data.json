@@ -283,12 +283,12 @@
       ]
     },
     {
-      "id": "Z2lkOis8vc2hvcGlmsddeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
+      "id": "Z2lkOis8vc2hvcGlmsddeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjB=",
       "name": "TV Mounting",
       "vendor": "Next.js",
       "path": "/shirt",
       "slug": "shirt",
-      "price": { "value": 200, "currencyCode": "USD" },
+      "price": { "value": 150, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>Just let me know what mount is being used and the size of your TV being mounted!</strong></p>",
       "images": [
         {
