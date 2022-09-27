@@ -1,6 +1,9 @@
-|               | # [LetzWrk.com](https://www.letzwrk.com) |               |
-| :------------ | :--------------------------------------: | :-----------: | ---------- |
-| ####Labor app |              ####E-commerce              | ####DIY Blogs | ####Forums |
+# [LetzWrk.com](https://www.letzwrk.com)
+
+              |                |               |
+
+:------------ | :------------: | :-----------: | ---------:
+####Labor app | ####E-commerce | ####DIY Blogs | ####Forums
 
 A marketplace for repairs, installations and general tasks for communication with skilled laborers.
 
