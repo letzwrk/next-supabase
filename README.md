@@ -1,5 +1,6 @@
 # [LetzWrk.com](https://www.letzwrk.com)
 
+| --------- | ---------- |
 | Labor app | A marketplace for repairs, installations and general tasks for communication with skilled laborers
 | E-commerce | For appliances needing to be installed with blogs guiding assembly, installation and repairs
 | DIY Blogs | To save money and give advice for specific items
