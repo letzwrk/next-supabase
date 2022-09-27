@@ -1,9 +1,9 @@
 # [LetzWrk.com](https://www.letzwrk.com)
 
-| Labor app | A marketplace for repairs, installations and general tasks for communication with skilled laborers |
-| E-commerce | For appliances needing to be installed with blogs guiding assembly, installation and repairs |
-| DIY Blogs | To save money and give advice for specific items |
-| Forums | Jobs that can be paid for vitual guidance will be browsable and searchable |
+| Labor app | A marketplace for repairs, installations and general tasks for communication with skilled laborers
+| E-commerce | For appliances needing to be installed with blogs guiding assembly, installation and repairs
+| DIY Blogs | To save money and give advice for specific items
+| Forums | Jobs that can be paid for vitual guidance will be browsable and searchable
 
 1. Post a job inside your cart.
 2. List individual tasks and projects with the amount you want to pay.
