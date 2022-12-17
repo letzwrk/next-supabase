@@ -21,16 +21,11 @@ const SORT = {
   'price-desc': 'Price: High to low',
 }
 
-import {
-  filterQuery,
-  getCategoryPath,
-  getDesignerPath,
-  useSearchMeta,
-} from '@lib/search'
+import {  filterQuery,  getCategoryPath,  getServicesPath,  useSearchMeta, } from '@lib/search'
 
 export default function Search({ categories, brands }: SearchPropsType) {
-  const [activeFilter, setActiveFilter] = useState('')
-  const [toggleFilter, setToggleFilter] = useState(false)
+  const [ activeFilter, setActiveFilter ] = useState('')
+  const [ toggleFilter, setToggleFilter ] = useState(false)
 
   const router = useRouter()
   const { asPath, locale } = router
@@ -178,8 +173,8 @@ export default function Search({ categories, brands }: SearchPropsType) {
                   aria-expanded="true"
                 >
                   {activeBrand?.name
-                    ? `Design: ${activeBrand?.name}`
-                    : 'All Designs'}
+                    ? `Services: ${activeBrand?.name}`
+                    : 'All Services'}
                   <svg
                     className="-mr-1 ml-2 h-5 w-5"
                     xmlns="http://www.w3.org/2000/svg"
@@ -219,7 +214,7 @@ export default function Search({ categories, brands }: SearchPropsType) {
                     >
                       <Link
                         href={{
-                          pathname: getDesignerPath('', category),
+                          pathname: getServicesPath('', category),
                           query,
                         }}
                       >
@@ -246,7 +241,7 @@ export default function Search({ categories, brands }: SearchPropsType) {
                       >
                         <Link
                           href={{
-                            pathname: getDesignerPath(node.path, category),
+                            pathname: getServicesPath(node.path, category),
                             query,
                           }}
                         >

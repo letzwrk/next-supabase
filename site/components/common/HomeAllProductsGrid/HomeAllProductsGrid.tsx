@@ -4,7 +4,7 @@ import type { Product } from '@commerce/types/product'
 import { Grid } from '@components/ui'
 import { ProductCard } from '@components/product'
 import s from './HomeAllProductsGrid.module.css'
-import { getCategoryPath, getDesignerPath } from '@lib/search'
+import { getCategoryPath, getServicesPath } from '@lib/search'
 
 interface Props {
   categories?: any
@@ -37,13 +37,13 @@ const HomeAllProductsGrid: FC<Props> = ({
           </ul>
           <ul className="">
             <li className="py-1 text-base font-bold tracking-wide">
-              <Link href={getDesignerPath('')}>
-                <a>All Designers</a>
+              <Link href={getServicesPath('')}>
+                <a>All Services</a>
               </Link>
             </li>
             {brands.flatMap(({ node }: any) => (
               <li key={node.path} className="py-1 text-accent-8 text-base">
-                <Link href={getDesignerPath(node.path)}>
+                <Link href={getServicesPath(node.path)}>
                   <a>{node.name}</a>
                 </Link>
               </li>
