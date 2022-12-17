@@ -5,11 +5,9 @@ import { Grid, Marquee, Hero } from '@components/ui'
 // import HomeAllProductsGrid from '@components/common/HomeAllProductsGrid'
 import type { GetStaticPropsContext, InferGetStaticPropsType } from 'next'
 
-export async function getStaticProps({
-  preview,
-  locale,
-  locales,
-}: GetStaticPropsContext) {
+export async function 
+getStaticProps({  preview,  locale,  locales, }: GetStaticPropsContext ) {
+  
   const config = { locale, locales }
   const productsPromise = commerce.getAllProducts({
     variables: { first: 6 },
@@ -25,12 +23,7 @@ export async function getStaticProps({
   const { categories, brands } = await siteInfoPromise
 
   return {
-    props: {
-      products,
-      categories,
-      brands,
-      pages,
-    },
+    props: {      products,      categories,      brands,      pages,    },
     revalidate: 60,
   }
 }
