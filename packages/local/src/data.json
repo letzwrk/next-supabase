@@ -4,13 +4,13 @@
       "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
       "name": "Pressure Washing",
       "vendor": "Next.js",
-      "path": "/new-short-sleeve-t-shirt",
+      "path": "/pressure-wash",
       "slug": "new-short-sleeve-t-shirt",
       "price": { "value": 400, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>Pressure washing is a quick way to raise the curb appeal. Send me the details and address along with any pictures if you can.</strong></p>",
       "images": [
         {
-          "url": "/assets/powerwash_concrete.jpg",
+          "url": "/assets/powerwash_concrete.jpg", 
           "altText": "Powerwash & Pressure Wash Business in Austin, Texas",
           "width": 1000,
           "height": 1000
@@ -177,7 +177,7 @@
       "id": "Z2lkOis8vc2hvcGlmsddeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
       "name": "Minor Plumbing",
       "vendor": "Next.js",
-      "path": "/shirt",
+      "path": "/plumbing",
       "slug": "shirt",
       "price": { "value": 200, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>I replace most plumbing fixtures and parts. I just turn of the valves but wont alter any piping approved by the home inspector.</strong></p>",
