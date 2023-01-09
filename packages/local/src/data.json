@@ -4,8 +4,8 @@
       "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
       "name": "Pressure Washing",
       "vendor": "Next.js",
-      "path": "/new-short-sleeve-t-shirt",
-      "slug": "new-short-sleeve-t-shirt",
+      "path": "/pressure-washing",
+      "slug": "pressure-washing",
       "price": { "value": 400, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>Pressure washing is a quick way to raise the curb appeal. Send me the details and address along with any pictures if you can.</strong></p>",
       "images": [
@@ -92,8 +92,8 @@
       "id": "Z2lkOi8vc2hvcGlmeS9Qcm9ksdWN0LzU0NDczMjUwMjQ0MjA=",
       "name": "Minor Electrical",
       "vendor": "Next.js",
-      "path": "/lightweight-jacket",
-      "slug": "lightweight-jacket",
+      "path": "/electrical",
+      "slug": "electrical",
       "price": { "value": 150, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>I replace most electrical products but legally wont alter wiring approved by the home inspector, that is my limit. </strong></p>",
       "images": [
@@ -177,8 +177,8 @@
       "id": "Z2lkOis8vc2hvcGlmsddeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
       "name": "Minor Plumbing",
       "vendor": "Next.js",
-      "path": "/shirt",
-      "slug": "shirt",
+      "path": "/plumbing",
+      "slug": "plumbing",
       "price": { "value": 200, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>I replace most plumbing fixtures and parts. I just turn of the valves but wont alter any piping approved by the home inspector.</strong></p>",
       "images": [
@@ -287,7 +287,7 @@
       "name": "TV Mounting",
       "vendor": "Next.js",
       "path": "/tv-mount",
-      "slug": "shirt",
+      "slug": "tv-mount",
       "price": { "value": 150, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>Just let me know what mount is being used and the size of your TV being mounted!</strong></p>",
       "images": [
